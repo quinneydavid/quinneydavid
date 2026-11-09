@@ -30,6 +30,7 @@ jobs:
   activity:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         with:
           COMMIT_MSG: "Update recent activity"
