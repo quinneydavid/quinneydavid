@@ -27,4 +27,9 @@ Homelab as code, Kubernetes on Talos, and self-hosted tools. Work stuff is at [@
 
 **Recent activity**
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#642](https://github.com/agregarr/agregarr/pull/642) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+2. ℹ️ Labeled issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
+3. ℹ️ Labeled issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
+4. ❗ Opened issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
+5. ℹ️ Labeled issue [#6008](https://github.com/opentofu/registry/issues/6008) in [opentofu/registry](https://github.com/opentofu/registry)
 <!--END_SECTION:activity-->
