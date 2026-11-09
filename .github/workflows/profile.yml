@@ -5,15 +5,22 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile.yml"]
+    paths: [".github/workflows/profile.yml", ".github/scripts/**"]
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  images:
+    # Snake, top-languages card and 30-day graph, all drawn here and published to the 'output' branch.
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - name: Draw language card + activity graph
+        run: python3 .github/scripts/profile_cards.py dist
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
