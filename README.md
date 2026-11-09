@@ -13,23 +13,16 @@ Homelab as code, Kubernetes on Talos, and self-hosted tools. Work stuff is at [@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/github-snake.svg" />
 </picture>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quinneydavid&layout=compact&langs_count=6&hide_border=true&theme=github_dark" />
-    <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinneydavid&layout=compact&langs_count=6&hide_border=true" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/top-langs-dark.svg" />
+  <img alt="Most used languages" src="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/top-langs.svg" />
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quinneydavid&bg_color=0d1117&color=c9d1d9&line=39d353&point=26a641&area=true&hide_border=true" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=quinneydavid&bg_color=ffffff&color=24292f&line=2da44e&point=1a7f37&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/activity-graph-dark.svg" />
+  <img alt="Contributions, last 30 days" src="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/activity-graph.svg" />
 </picture>
 
 **Recent activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#642](https://github.com/agregarr/agregarr/pull/642) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-2. ℹ️ Labeled issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
-3. ℹ️ Labeled issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
-4. ❗ Opened issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
-5. ℹ️ Labeled issue [#6008](https://github.com/opentofu/registry/issues/6008) in [opentofu/registry](https://github.com/opentofu/registry)
 <!--END_SECTION:activity-->
