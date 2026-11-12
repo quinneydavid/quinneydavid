@@ -25,9 +25,9 @@ Homelab as code, Kubernetes on Talos, and self-hosted tools. Work stuff is at [@
 
 **Recent activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#643](https://github.com/agregarr/agregarr/pull/643) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-2. 💪 Opened PR [#642](https://github.com/agregarr/agregarr/pull/642) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-3. ℹ️ Labeled issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
-4. ℹ️ Labeled issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
-5. ❗ Opened issue [#6009](https://github.com/opentofu/registry/issues/6009) in [opentofu/registry](https://github.com/opentofu/registry)
+1. 💪 Opened PR [#646](https://github.com/agregarr/agregarr/pull/646) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+2. 💪 Opened PR [#645](https://github.com/agregarr/agregarr/pull/645) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+3. 💪 Opened PR [#644](https://github.com/agregarr/agregarr/pull/644) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+4. 💪 Opened PR [#643](https://github.com/agregarr/agregarr/pull/643) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+5. 💪 Opened PR [#642](https://github.com/agregarr/agregarr/pull/642) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
 <!--END_SECTION:activity-->
