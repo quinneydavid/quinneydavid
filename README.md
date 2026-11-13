@@ -6,7 +6,7 @@ I build self-hosted apps for the things I do at home, and run the homelab they l
 - **[GT7 Copilot](https://github.com/quinneydavid/gt7-copilot):** self-hosted companion for Gran Turismo 7: spoken feedback and conversation while driving, lap analysis, and car tuning from a screenshot.
 - **[OpenBrisket](https://github.com/quinneydavid/openbrisket):** BBQ as Code: recipes, rubs and stacks in git, a log of every cook, and a note when the meat needs attention.
 - **[Hub Warmer](https://github.com/quinneydavid/hub-warmer):** keeps a Plex Media Server's Home and library rows cached for every account and device, so the screens open without a wait.
-- **[sg-card-advisor](https://github.com/quinneydavid/sg-card-advisor):** self-hosted adviser for Singapore miles credit cards: which card to pay with, counting this month's caps and minimum spends.
+- **[SG Miles Advisor](https://github.com/quinneydavid/sg-miles-advisor):** self-hosted adviser for Singapore miles credit cards: which card to pay with, counting this month's caps and minimum spends.
 - **[maybank-manchester-united-bot](https://github.com/quinneydavid/maybank-manchester-united-bot):** Telegram alerts for Man United match days and the Maybank card bonus that goes with them.
 
 **Infrastructure**
