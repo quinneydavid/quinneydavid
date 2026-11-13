@@ -1,17 +1,18 @@
 ### Hi, I'm David 👋
 
-Homelab as code, Kubernetes on Talos, and self-hosted tools. Work stuff is at [@davidquinney](https://github.com/davidquinney).
+I build self-hosted apps for the things I do at home, and run the homelab they live on as code. Work stuff is at [@davidquinney](https://github.com/davidquinney).
 
-**Projects**
-- **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla's MSP API
-- **[talos](https://github.com/quinneydavid/talos):** Talos Linux Kubernetes homelab
-- **[Mass-Clone-VMs](https://github.com/quinneydavid/Mass-Clone-VMs):** mass clone and power on VMs via vCenter using VAAI
-- **[maybank-manchester-united-bot](https://github.com/quinneydavid/maybank-manchester-united-bot):** Telegram bot for Man United match alerts and Maybank card spending tips
+**Apps**
+- **[GT7 Copilot](https://github.com/quinneydavid/gt7-copilot):** a race engineer in your ear for Gran Turismo 7. It calls the corner where you lost time, fuel and pit laps while you drive, then tells you what to change on the car.
+- **[OpenBrisket](https://github.com/quinneydavid/openbrisket):** BBQ as Code. Recipes and rubs in git, every cook a commit history, and a note when the meat needs you.
+- **[Hub Warmer](https://github.com/quinneydavid/hub-warmer):** makes the Plex home screen open at once, for every user and device, instead of after several seconds.
+- **[sg-card-advisor](https://github.com/quinneydavid/sg-card-advisor):** which Singapore credit card to pay with right now, counting this month's miles caps and minimum spends.
+- **[maybank-manchester-united-bot](https://github.com/quinneydavid/maybank-manchester-united-bot):** Telegram alerts for Man United match days and the Maybank card bonus that goes with them.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/github-snake.svg" />
-</picture>
+**Infrastructure**
+- **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla's MSP API: rules and target lists as code.
+- **[talos](https://github.com/quinneydavid/talos):** Talos Linux Kubernetes homelab.
+- **[Mass-Clone-VMs](https://github.com/quinneydavid/Mass-Clone-VMs):** mass clone and power on VMs via vCenter using VAAI.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/top-langs-dark.svg" />

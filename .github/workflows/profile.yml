@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   images:
-    # Snake, top-languages card and 30-day graph, all drawn here and published to the 'output' branch.
+    # Top-languages card and 30-day graph, drawn here and published to the 'output' branch.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,12 +21,6 @@ jobs:
         env:
           GH_USER: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
