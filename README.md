@@ -1,6 +1,6 @@
 ### Hi, I'm David 👋
 
-I build self-hosted apps for the things I do at home, and run the homelab they live on as code. Work stuff is at [@davidquinney](https://github.com/davidquinney).
+Everything as code. My home network, my Kubernetes clusters and my barbecue are all files in git, and I build self-hosted apps for the things I do at home. Work is at [@davidquinney](https://github.com/davidquinney).
 
 **Apps**
 - **[GT7 Copilot](https://github.com/quinneydavid/gt7-copilot):** self-hosted companion for Gran Turismo 7: spoken feedback and conversation while driving, lap analysis, and car tuning from a screenshot.
@@ -9,9 +9,9 @@ I build self-hosted apps for the things I do at home, and run the homelab they l
 - **[SG Miles Advisor](https://github.com/quinneydavid/sg-miles-advisor):** self-hosted adviser for Singapore miles credit cards: which card to pay with, counting this month's caps and minimum spends.
 - **[maybank-manchester-united-bot](https://github.com/quinneydavid/maybank-manchester-united-bot):** Telegram alerts for Man United match days and the Maybank card bonus that goes with them.
 
-**Infrastructure**
-- **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla's MSP API: rules and target lists as code.
-- **[talos](https://github.com/quinneydavid/talos):** Talos Linux Kubernetes homelab.
+**Infrastructure as code**
+- **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla: firewall rules and target lists as code.
+- **[talos](https://github.com/quinneydavid/talos):** Kubernetes at home on Talos Linux, managed from git.
 - **[Mass-Clone-VMs](https://github.com/quinneydavid/Mass-Clone-VMs):** mass clone and power on VMs via vCenter using VAAI.
 
 <picture>
