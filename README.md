@@ -1,18 +1,18 @@
 ### Hi, I'm David 👋
 
-Everything as code. My home network, my Kubernetes clusters and my barbecue are all files in git, and I build self-hosted apps for the things I do at home. Work is at [@davidquinney](https://github.com/davidquinney).
+I build self-hosted apps for the things I do at home. Work stuff is at [@davidquinney](https://github.com/davidquinney).
 
 **Apps**
-- **[GT7 Copilot](https://github.com/quinneydavid/gt7-copilot):** self-hosted companion for Gran Turismo 7: spoken feedback and conversation while driving, lap analysis, and car tuning from a screenshot.
-- **[OpenBrisket](https://github.com/quinneydavid/openbrisket):** BBQ as Code: recipes, rubs and stacks in git, a log of every cook, and a note when the meat needs attention.
-- **[Hub Warmer](https://github.com/quinneydavid/hub-warmer):** keeps a Plex Media Server's Home and library rows cached for every account and device, so the screens open without a wait.
-- **[SG Miles Advisor](https://github.com/quinneydavid/sg-miles-advisor):** self-hosted adviser for Singapore miles credit cards: which card to pay with, counting this month's caps and minimum spends.
-- **[maybank-manchester-united-bot](https://github.com/quinneydavid/maybank-manchester-united-bot):** Telegram alerts for Man United match days and the Maybank card bonus that goes with them.
+- **[GT7 Copilot](https://github.com/quinneydavid/gt7-copilot):** AI Companion for Gran Turismo 7
+- **[OpenBrisket](https://github.com/quinneydavid/openbrisket):** BBQ as Code
+- **[Hub Warmer](https://github.com/quinneydavid/hub-warmer):** Plex Cache Warmer
+- **[SG Miles Advisor](https://github.com/quinneydavid/sg-miles-advisor):** Singapore Credit Cards Advisor
+- **[maybank-manchester-united-bot](https://github.com/quinneydavid/maybank-manchester-united-bot):** Telegram bot for Manchester United Matches
 
 **Infrastructure as code**
-- **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla: firewall rules and target lists as code.
-- **[talos](https://github.com/quinneydavid/talos):** Kubernetes at home on Talos Linux, managed from git.
-- **[Mass-Clone-VMs](https://github.com/quinneydavid/Mass-Clone-VMs):** mass clone and power on VMs via vCenter using VAAI.
+- **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla
+- **[talos](https://github.com/quinneydavid/talos):** Kubernetes at home on Talos Linux
+- **[Mass-Clone-VMs](https://github.com/quinneydavid/Mass-Clone-VMs):** Mass clone and power on VMs via vCenter using VAAI.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinneydavid/quinneydavid/output/top-langs-dark.svg" />
