@@ -25,9 +25,9 @@ I build self-hosted apps for the things I do at home. Work stuff is at [@davidqu
 
 **Recent activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#646](https://github.com/agregarr/agregarr/pull/646) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-2. 💪 Opened PR [#645](https://github.com/agregarr/agregarr/pull/645) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-3. 💪 Opened PR [#644](https://github.com/agregarr/agregarr/pull/644) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-4. 💪 Opened PR [#643](https://github.com/agregarr/agregarr/pull/643) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-5. 💪 Opened PR [#642](https://github.com/agregarr/agregarr/pull/642) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+1. 🗣 Commented on [#7](https://github.com/RyanAtTanagra/mediasage/issues/7#issuecomment-6889275590) in [RyanAtTanagra/mediasage](https://github.com/RyanAtTanagra/mediasage)
+2. 🗣 Commented on [#6](https://github.com/RyanAtTanagra/mediasage/pull/6#issuecomment-6889275376) in [RyanAtTanagra/mediasage](https://github.com/RyanAtTanagra/mediasage)
+3. 🗣 Commented on [#6](https://github.com/RyanAtTanagra/mediasage/pull/6#issuecomment-6887556546) in [RyanAtTanagra/mediasage](https://github.com/RyanAtTanagra/mediasage)
+4. 💪 Opened PR [#646](https://github.com/agregarr/agregarr/pull/646) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+5. 💪 Opened PR [#645](https://github.com/agregarr/agregarr/pull/645) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
 <!--END_SECTION:activity-->
