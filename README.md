@@ -11,7 +11,6 @@ I build self-hosted apps for the things I do at home. Work stuff is at [@davidqu
 
 **Infrastructure as code**
 - **[terraform-provider-firewalla](https://github.com/quinneydavid/terraform-provider-firewalla):** OpenTofu/Terraform provider for Firewalla
-- **[talos](https://github.com/quinneydavid/talos):** Kubernetes at home on Talos Linux
 - **[Mass-Clone-VMs](https://github.com/quinneydavid/Mass-Clone-VMs):** Mass clone and power on VMs via vCenter using VAAI.
 
 <picture>
