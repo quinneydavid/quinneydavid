@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="118" viewBox="0 0 340 118" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="0" y="16" font-size="14" font-weight="600" fill="#1f2328">Most used languages</text>
+<clipPath id="bar"><rect x="0" y="28" width="340" height="8" rx="4"/></clipPath><g clip-path="url(#bar)">
+<rect x="0.00" y="28" width="298.87" height="8" fill="#3572A5"/>
+<rect x="298.37" y="28" width="19.73" height="8" fill="#e34c26"/>
+<rect x="317.59" y="28" width="12.06" height="8" fill="#f1e05a"/>
+<rect x="329.16" y="28" width="5.18" height="8" fill="#00ADD8"/>
+<rect x="333.83" y="28" width="2.97" height="8" fill="#663399"/>
+<rect x="336.30" y="28" width="1.79" height="8" fill="#384d54"/>
+</g>
+<circle cx="5" cy="54" r="5" fill="#3572A5"/><text x="16" y="58" font-size="12" fill="#1f2328">Python <tspan fill="#59636e">87.8%</tspan></text>
+<circle cx="180" cy="54" r="5" fill="#e34c26"/><text x="191" y="58" font-size="12" fill="#1f2328">HTML <tspan fill="#59636e">5.7%</tspan></text>
+<circle cx="5" cy="76" r="5" fill="#f1e05a"/><text x="16" y="80" font-size="12" fill="#1f2328">JavaScript <tspan fill="#59636e">3.4%</tspan></text>
+<circle cx="180" cy="76" r="5" fill="#00ADD8"/><text x="191" y="80" font-size="12" fill="#1f2328">Go <tspan fill="#59636e">1.4%</tspan></text>
+<circle cx="5" cy="98" r="5" fill="#663399"/><text x="16" y="102" font-size="12" fill="#1f2328">CSS <tspan fill="#59636e">0.7%</tspan></text>
+<circle cx="180" cy="98" r="5" fill="#384d54"/><text x="191" y="102" font-size="12" fill="#1f2328">Dockerfile <tspan fill="#59636e">0.4%</tspan></text>
+</svg>
