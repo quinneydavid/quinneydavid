@@ -25,9 +25,9 @@ I build self-hosted apps for the things I do at home. Work stuff is at [@davidqu
 
 **Recent activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/bitr8/agregarr-dev/pull/211#issuecomment-7185638261) in [bitr8/agregarr-dev](https://github.com/bitr8/agregarr-dev)
-2. 🗣 Commented on [#211](https://github.com/bitr8/agregarr-dev/pull/211#issuecomment-7157452357) in [bitr8/agregarr-dev](https://github.com/bitr8/agregarr-dev)
-3. 🔒 Closed issue [#603](https://github.com/agregarr/agregarr/issues/603) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-4. 🗣 Commented on [#603](https://github.com/agregarr/agregarr/issues/603#issuecomment-7156041948) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
-5. 🗣 Commented on [#645](https://github.com/agregarr/agregarr/pull/645#issuecomment-7156041212) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+1. 🗣 Commented on [#211](https://github.com/bitr8/agregarr-dev/pull/211#issuecomment-7208635379) in [bitr8/agregarr-dev](https://github.com/bitr8/agregarr-dev)
+2. 🗣 Commented on [#211](https://github.com/bitr8/agregarr-dev/pull/211#issuecomment-7185638261) in [bitr8/agregarr-dev](https://github.com/bitr8/agregarr-dev)
+3. 🗣 Commented on [#211](https://github.com/bitr8/agregarr-dev/pull/211#issuecomment-7157452357) in [bitr8/agregarr-dev](https://github.com/bitr8/agregarr-dev)
+4. 🔒 Closed issue [#603](https://github.com/agregarr/agregarr/issues/603) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
+5. 🗣 Commented on [#603](https://github.com/agregarr/agregarr/issues/603#issuecomment-7156041948) in [agregarr/agregarr](https://github.com/agregarr/agregarr)
 <!--END_SECTION:activity-->
